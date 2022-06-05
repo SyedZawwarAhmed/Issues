@@ -148,5 +148,20 @@
     "location": "Worldwide",
     "languages": ["JavaScript"],
     "tools": ["React", "Sass"]
+  },
+  {
+    "id": 11,
+    "company": "DroneBase",
+    "logo": "./images/jobs/drone-base.jpg",
+    "new": false,
+    "featured": false,
+    "position": "React Native Intern",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "4days ago",
+    "contract": "Internship",
+    "location": "Worldwide",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React Native", "Redux"]
   }
 ]
